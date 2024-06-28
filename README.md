@@ -9,7 +9,7 @@ Hello! My name is Misha, a passionate programmer with a love for low-level progr
 
 ## 🖥️ Current
 - **Database Developer at Yandex**: Working on [YDB](https://github.com/ydb-platform/ydb)
-- **University techer at HSE**: TConducting practical sessions for CAOS (Computer Architecture and Operating Systems) [Repository](https://github.com/lll-phill-lll/hse_caos_practice)
+- **University teacher at HSE**: Conducting practical sessions for CAOS (Computer Architecture and Operating Systems) [Repository](https://github.com/lll-phill-lll/hse_caos_practice)
 
 ## 📢 Links
 - **Telegram Channel**: [Link](https://t.me/misha_writes_code)
